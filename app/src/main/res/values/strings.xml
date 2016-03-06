@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NITC Mess Chronicles</string>
+
+    <!--Home
+    -->
+    <string name="home_textview_above_listview">EDIT EXISTING MESS</string>
+    <string name="textview_above_addIcon">CREATE NEW</string>
+    <!--CreateNew
+    -->
+    <string name="textview_mess_name">MESS NAME</string>
+    <string name="textview_month">MONTH</string>
+    <string name="textview_year">YEAR</string>
+    <string name="button_create_new">CREATE</string>
+    <string name="et_Mess_Name_Hint">A,B,C...</string>
+    <string name="et_Mess_Month_Hint">Jan,Feb...</string>
+    <string name="et_Mess_Year_Hint">2016,17..</string>
+    <!--MainActivity
+    -->
+    <string name="textview_end_result">0</string>
+    <string name="textview_above_edittext">EXTRA TAKEN</string>
+    <string name="button_add">ADD</string>
+    <string name="button_show">SHOW</string>
+    <string name="button_undo">UNDO</string>
+    <string name="et_current_extra_hint">5,8,10,15,18,20....</string>
+    <!--Showdata
+    -->
+    <string name="showdata_textview_above_listview">DATES IN ORDER</string>
+    <string name="textview_below_listview">DETAILED RESULT</string>
+    <!--action_home
+    -->
+    <string name="action_refresh">REFRESH</string>
+    <string name="action_delete">DELETE</string>
+    <string name="action_about_us">ABOUT US</string>
+    <!--action_showdata
+    -->
+    <string name="action_help">HELP</string>
+</resources>
